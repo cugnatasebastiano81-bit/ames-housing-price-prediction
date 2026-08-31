@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+htmlcov/
+.coverage
+*.pyc
+*.pyo
+AmesHousing.csv
+backups/
+

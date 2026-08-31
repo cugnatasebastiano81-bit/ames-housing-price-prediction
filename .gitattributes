@@ -1,0 +1,10 @@
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.md text eol=lf
+LICENSE text eol=lf
+ames_pipeline.py text eol=lf
+tests/test_ames_pipeline.py text eol=lf
+pyproject.toml text eol=lf
+requirements.txt text eol=lf
+AmesHousing.csv -text whitespace=cr-at-eol
+AmesHousing_Pipeline.ipynb -text whitespace=cr-at-eol
