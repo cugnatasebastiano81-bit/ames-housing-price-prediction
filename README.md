@@ -98,3 +98,8 @@ immobiliare, consulenza finanziaria o stima certificata.
 
 Il software e la documentazione originale del progetto sono distribuiti con licenza MIT. Il dataset
 non è incluso e non è coperto dalla licenza MIT del progetto.
+
+
+## Notebook eseguibile su Kaggle
+
+La versione eseguibile con output verificati è disponibile su [Kaggle](https://www.kaggle.com/code/sebastianocugnata/ames-housing-pipeline-end-to-end-riproducibile).
